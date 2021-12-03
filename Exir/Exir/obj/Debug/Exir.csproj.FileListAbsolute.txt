@@ -1,0 +1,603 @@
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Exir.exe.config
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Exir.exe
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Exir.pdb
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.Documents.SpreadsheetStreaming.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.ChartView.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.GridView.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.PdfViewer.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.PivotGrid.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.RadChart.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.RadDiagram.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.RadDock.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.RadMap.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.RadMarkupEditor.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.RadSpreadsheet.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.RadWebCam.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Scheduler.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.SpellChecker.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.SyntaxEditor.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Crystal.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Fluent.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.FluentDark.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.HighContrastBlack.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Material.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.MaterialBlueGrey.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.MaterialPink.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.MaterialTeal.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2007Silver.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2013Light.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.TelerikMetroTouch.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.UI.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Core.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Flow.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.Windows.Zip.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\TelerikCommon.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\TelerikData.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\TelerikExport.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Bunifu.Core.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Microsoft.mshtml.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.Windows.MediaFoundation.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\MediaFoundation.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Bunifu.Json.dll
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.Documents.SpreadsheetStreaming.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.ChartView.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.GridView.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.PdfViewer.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.PivotGrid.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.RadChart.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.RadDiagram.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.RadDock.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.RadMap.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.RadSpreadsheet.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.RadSpreadsheet.dll.config
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.RadWebCam.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.Scheduler.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.SpellChecker.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.SyntaxEditor.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.WinControls.UI.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Core.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Flow.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\Telerik.Windows.Zip.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\TelerikData.xml
+E:\New folder1\New folder\Exir\Exir\bin\Debug\TelerikExport.xml
+E:\New folder1\New folder\Exir\Exir\obj\Debug\Exir.csprojAssemblyReference.cache
+E:\New folder1\New folder\Exir\Exir\obj\Debug\Exir.Form1.resources
+E:\New folder1\New folder\Exir\Exir\obj\Debug\Exir.Properties.Resources.resources
+E:\New folder1\New folder\Exir\Exir\obj\Debug\Exir.csproj.GenerateResource.cache
+E:\New folder1\New folder\Exir\Exir\obj\Debug\Exir.exe.licenses
+E:\New folder1\New folder\Exir\Exir\obj\Debug\Exir.csproj.CoreCompileInputs.cache
+E:\New folder1\New folder\Exir\Exir\obj\Debug\Exir.csproj.CopyComplete
+E:\New folder1\New folder\Exir\Exir\obj\Debug\Exir.exe
+E:\New folder1\New folder\Exir\Exir\obj\Debug\Exir.pdb
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Exir.exe.config
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Exir.exe
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Exir.pdb
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.Documents.SpreadsheetStreaming.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.ChartView.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.GridView.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.PdfViewer.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.PivotGrid.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.RadChart.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.RadDiagram.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.RadDock.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.RadMap.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.RadMarkupEditor.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.RadSpreadsheet.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.RadWebCam.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Scheduler.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.SpellChecker.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.SyntaxEditor.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Crystal.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Fluent.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.FluentDark.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.HighContrastBlack.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Material.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.MaterialBlueGrey.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.MaterialPink.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.MaterialTeal.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2007Silver.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2013Light.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.TelerikMetroTouch.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.UI.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Core.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Flow.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.Windows.Zip.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\TelerikCommon.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\TelerikData.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\TelerikExport.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Tulpep.NotificationWindow.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Microsoft.mshtml.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.Windows.MediaFoundation.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\MediaFoundation.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.Documents.SpreadsheetStreaming.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.ChartView.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.GridView.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.PdfViewer.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.PivotGrid.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.RadChart.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.RadDiagram.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.RadDock.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.RadMap.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.RadSpreadsheet.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.RadSpreadsheet.dll.config
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.RadWebCam.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.Scheduler.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.SpellChecker.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.SyntaxEditor.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.WinControls.UI.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Core.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Flow.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.Windows.Zip.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\TelerikData.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\TelerikExport.xml
+E:\New folder1\Exir\Exir\Exir\obj\Debug\Exir.csprojAssemblyReference.cache
+E:\New folder1\Exir\Exir\Exir\obj\Debug\Exir.Login_Frm.resources
+E:\New folder1\Exir\Exir\Exir\obj\Debug\Exir.Properties.Resources.resources
+E:\New folder1\Exir\Exir\Exir\obj\Debug\Exir.csproj.GenerateResource.cache
+E:\New folder1\Exir\Exir\Exir\obj\Debug\Exir.exe.licenses
+E:\New folder1\Exir\Exir\Exir\obj\Debug\Exir.csproj.CoreCompileInputs.cache
+E:\New folder1\Exir\Exir\Exir\obj\Debug\Exir.csproj.CopyComplete
+E:\New folder1\Exir\Exir\Exir\obj\Debug\Exir.exe
+E:\New folder1\Exir\Exir\Exir\obj\Debug\Exir.pdb
+E:\New folder1\Exir\Exir\Exir\obj\Debug\Exir.Main_Form.resources
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+E:\New folder1\Exir\Exir\Exir\obj\Debug\Exir.Add_Goods.resources
+E:\New folder1\Exir\Exir\Exir\obj\Debug\Exir.Edit_Groups.resources
+E:\New folder1\Exir\Exir\Exir\obj\Debug\Exir.Setting.resources
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Xls.dll
+E:\New folder1\Exir\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Xls.xml
+D:\Exir\Exir\bin\Debug\Exir.exe.config
+D:\Exir\Exir\bin\Debug\Exir.exe
+D:\Exir\Exir\bin\Debug\Exir.pdb
+D:\Exir\Exir\bin\Debug\Telerik.Documents.SpreadsheetStreaming.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.ChartView.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.GridView.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.PdfViewer.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.PivotGrid.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.RadChart.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.RadDiagram.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.RadDock.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.RadMap.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.RadMarkupEditor.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.RadSpreadsheet.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.RadWebCam.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Scheduler.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.SpellChecker.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.SyntaxEditor.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Crystal.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Fluent.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.FluentDark.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.HighContrastBlack.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Material.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.MaterialBlueGrey.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.MaterialPink.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.MaterialTeal.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2007Silver.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2013Light.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.TelerikMetroTouch.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.UI.dll
+D:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Core.dll
+D:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+D:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Flow.dll
+D:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+D:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+D:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+D:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+D:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Xls.dll
+D:\Exir\Exir\bin\Debug\Telerik.Windows.Zip.dll
+D:\Exir\Exir\bin\Debug\TelerikCommon.dll
+D:\Exir\Exir\bin\Debug\TelerikData.dll
+D:\Exir\Exir\bin\Debug\TelerikExport.dll
+D:\Exir\Exir\bin\Debug\Tulpep.NotificationWindow.dll
+D:\Exir\Exir\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+D:\Exir\Exir\bin\Debug\Microsoft.mshtml.dll
+D:\Exir\Exir\bin\Debug\Telerik.Windows.MediaFoundation.dll
+D:\Exir\Exir\bin\Debug\MediaFoundation.dll
+D:\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Exir\Exir\bin\Debug\Bunifu_UI_v1.5.3.xml
+D:\Exir\Exir\bin\Debug\Telerik.Documents.SpreadsheetStreaming.xml
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.xml
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.ChartView.xml
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.GridView.xml
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.PdfViewer.xml
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.PivotGrid.xml
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.RadChart.xml
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.RadDiagram.xml
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.RadDock.xml
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.RadMap.xml
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.RadSpreadsheet.xml
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.RadSpreadsheet.dll.config
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.RadWebCam.xml
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.Scheduler.xml
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.SpellChecker.xml
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.SyntaxEditor.xml
+D:\Exir\Exir\bin\Debug\Telerik.WinControls.UI.xml
+D:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Core.xml
+D:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+D:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Flow.xml
+D:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+D:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+D:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+D:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+D:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Xls.xml
+D:\Exir\Exir\bin\Debug\Telerik.Windows.Zip.xml
+D:\Exir\Exir\bin\Debug\TelerikData.xml
+D:\Exir\Exir\bin\Debug\TelerikExport.xml
+D:\Exir\Exir\obj\Debug\Exir.csprojAssemblyReference.cache
+D:\Exir\Exir\obj\Debug\Exir.Add_Goods.resources
+D:\Exir\Exir\obj\Debug\Exir.Edit_Groups.resources
+D:\Exir\Exir\obj\Debug\Exir.Login_Frm.resources
+D:\Exir\Exir\obj\Debug\Exir.Main_Form.resources
+D:\Exir\Exir\obj\Debug\Exir.Properties.Resources.resources
+D:\Exir\Exir\obj\Debug\Exir.Setting.resources
+D:\Exir\Exir\obj\Debug\Exir.csproj.GenerateResource.cache
+D:\Exir\Exir\obj\Debug\Exir.exe.licenses
+D:\Exir\Exir\obj\Debug\Exir.csproj.CoreCompileInputs.cache
+D:\Exir\Exir\obj\Debug\Exir.csproj.CopyComplete
+D:\Exir\Exir\obj\Debug\Exir.exe
+D:\Exir\Exir\obj\Debug\Exir.pdb
+D:\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Exir\Exir\obj\Debug\Exir.Progress.resources
+D:\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+H:\Exir\Exir\bin\Debug\Exir.exe.config
+H:\Exir\Exir\bin\Debug\Exir.exe
+H:\Exir\Exir\bin\Debug\Exir.pdb
+H:\Exir\Exir\bin\Debug\Telerik.Documents.SpreadsheetStreaming.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.ChartView.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.GridView.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.PdfViewer.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.PivotGrid.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.RadChart.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.RadDiagram.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.RadDock.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.RadMap.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.RadMarkupEditor.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.RadSpreadsheet.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.RadWebCam.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Scheduler.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.SpellChecker.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.SyntaxEditor.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Crystal.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Fluent.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.FluentDark.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.HighContrastBlack.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Material.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.MaterialBlueGrey.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.MaterialPink.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.MaterialTeal.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2007Silver.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2013Light.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.TelerikMetroTouch.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.UI.dll
+H:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Core.dll
+H:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+H:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Flow.dll
+H:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+H:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+H:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+H:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+H:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Xls.dll
+H:\Exir\Exir\bin\Debug\Telerik.Windows.Zip.dll
+H:\Exir\Exir\bin\Debug\TelerikCommon.dll
+H:\Exir\Exir\bin\Debug\TelerikData.dll
+H:\Exir\Exir\bin\Debug\TelerikExport.dll
+H:\Exir\Exir\bin\Debug\Tulpep.NotificationWindow.dll
+H:\Exir\Exir\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+H:\Exir\Exir\bin\Debug\Microsoft.mshtml.dll
+H:\Exir\Exir\bin\Debug\Telerik.Windows.MediaFoundation.dll
+H:\Exir\Exir\bin\Debug\MediaFoundation.dll
+H:\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+H:\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+H:\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+H:\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+H:\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+H:\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+H:\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+H:\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+H:\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+H:\Exir\Exir\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+H:\Exir\Exir\bin\Debug\Bunifu_UI_v1.5.3.xml
+H:\Exir\Exir\bin\Debug\Telerik.Documents.SpreadsheetStreaming.xml
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.xml
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.ChartView.xml
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.GridView.xml
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.PdfViewer.xml
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.PivotGrid.xml
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.RadChart.xml
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.RadDiagram.xml
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.RadDock.xml
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.RadMap.xml
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.RadSpreadsheet.xml
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.RadSpreadsheet.dll.config
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.RadWebCam.xml
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.Scheduler.xml
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.SpellChecker.xml
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.SyntaxEditor.xml
+H:\Exir\Exir\bin\Debug\Telerik.WinControls.UI.xml
+H:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Core.xml
+H:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+H:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Flow.xml
+H:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+H:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+H:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+H:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+H:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Xls.xml
+H:\Exir\Exir\bin\Debug\Telerik.Windows.Zip.xml
+H:\Exir\Exir\bin\Debug\TelerikData.xml
+H:\Exir\Exir\bin\Debug\TelerikExport.xml
+H:\Exir\Exir\obj\Debug\Exir.csprojAssemblyReference.cache
+H:\Exir\Exir\obj\Debug\Exir.Add_Goods.resources
+H:\Exir\Exir\obj\Debug\Exir.Edit_Groups.resources
+H:\Exir\Exir\obj\Debug\Exir.Login_Frm.resources
+H:\Exir\Exir\obj\Debug\Exir.Main_Form.resources
+H:\Exir\Exir\obj\Debug\Exir.Progress.resources
+H:\Exir\Exir\obj\Debug\Exir.Properties.Resources.resources
+H:\Exir\Exir\obj\Debug\Exir.Setting.resources
+H:\Exir\Exir\obj\Debug\Exir.csproj.GenerateResource.cache
+H:\Exir\Exir\obj\Debug\Exir.exe.licenses
+H:\Exir\Exir\obj\Debug\Exir.csproj.CoreCompileInputs.cache
+H:\Exir\Exir\obj\Debug\Exir.csproj.CopyComplete
+H:\Exir\Exir\obj\Debug\Exir.exe
+H:\Exir\Exir\obj\Debug\Exir.pdb
+E:\Exir\Exir\bin\Debug\Exir.exe.config
+E:\Exir\Exir\bin\Debug\Exir.exe
+E:\Exir\Exir\bin\Debug\Exir.pdb
+E:\Exir\Exir\bin\Debug\Telerik.Documents.SpreadsheetStreaming.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.ChartView.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.GridView.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.PdfViewer.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.PivotGrid.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.RadChart.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.RadDiagram.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.RadDock.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.RadMap.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.RadMarkupEditor.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.RadSpreadsheet.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.RadWebCam.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Scheduler.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.SpellChecker.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.SyntaxEditor.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Crystal.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Fluent.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.FluentDark.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.HighContrastBlack.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Material.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.MaterialBlueGrey.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.MaterialPink.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.MaterialTeal.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2007Silver.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Office2013Light.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.TelerikMetroTouch.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.UI.dll
+E:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Core.dll
+E:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+E:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Flow.dll
+E:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+E:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+E:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+E:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+E:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Xls.dll
+E:\Exir\Exir\bin\Debug\Telerik.Windows.Zip.dll
+E:\Exir\Exir\bin\Debug\TelerikCommon.dll
+E:\Exir\Exir\bin\Debug\TelerikData.dll
+E:\Exir\Exir\bin\Debug\TelerikExport.dll
+E:\Exir\Exir\bin\Debug\Tulpep.NotificationWindow.dll
+E:\Exir\Exir\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+E:\Exir\Exir\bin\Debug\Microsoft.mshtml.dll
+E:\Exir\Exir\bin\Debug\Telerik.Windows.MediaFoundation.dll
+E:\Exir\Exir\bin\Debug\MediaFoundation.dll
+E:\Exir\Exir\bin\Debug\Telerik.Documents.SpreadsheetStreaming.xml
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.xml
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.ChartView.xml
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.GridView.xml
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.PdfViewer.xml
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.PivotGrid.xml
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.RadChart.xml
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.RadDiagram.xml
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.RadDock.xml
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.RadMap.xml
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.RadSpreadsheet.xml
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.RadSpreadsheet.dll.config
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.RadWebCam.xml
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.Scheduler.xml
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.SpellChecker.xml
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.SyntaxEditor.xml
+E:\Exir\Exir\bin\Debug\Telerik.WinControls.UI.xml
+E:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Core.xml
+E:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+E:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Flow.xml
+E:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+E:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+E:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+E:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+E:\Exir\Exir\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Xls.xml
+E:\Exir\Exir\bin\Debug\Telerik.Windows.Zip.xml
+E:\Exir\Exir\bin\Debug\TelerikData.xml
+E:\Exir\Exir\bin\Debug\TelerikExport.xml
+E:\Exir\Exir\obj\Debug\Exir.Account_Side.resources
+E:\Exir\Exir\obj\Debug\Exir.Add_Check.resources
+E:\Exir\Exir\obj\Debug\Exir.Add_Goods.resources
+E:\Exir\Exir\obj\Debug\Exir.Bank_Account.resources
+E:\Exir\Exir\obj\Debug\Exir.Cash_Desk.resources
+E:\Exir\Exir\obj\Debug\Exir.Custom_MessageBox.resources
+E:\Exir\Exir\obj\Debug\Exir.Document.resources
+E:\Exir\Exir\obj\Debug\Exir.Edit_Account_Side.resources
+E:\Exir\Exir\obj\Debug\Exir.Edit_Bank_Account.resources
+E:\Exir\Exir\obj\Debug\Exir.Edit_Bank_Account_User.resources
+E:\Exir\Exir\obj\Debug\Exir.Edit_Check.resources
+E:\Exir\Exir\obj\Debug\Exir.Edit_Good.resources
+E:\Exir\Exir\obj\Debug\Exir.Edit_Group.resources
+E:\Exir\Exir\obj\Debug\Exir.Edit_Groups.resources
+E:\Exir\Exir\obj\Debug\Exir.Edit_Heading_Defenite_Account.resources
+E:\Exir\Exir\obj\Debug\Exir.Edit_Heading_Detailed.resources
+E:\Exir\Exir\obj\Debug\Exir.Edit_Heading_Total_Account.resources
+E:\Exir\Exir\obj\Debug\Exir.Factor.resources
+E:\Exir\Exir\obj\Debug\Exir.Financial_Department.resources
+E:\Exir\Exir\obj\Debug\Exir.Login_Frm.resources
+E:\Exir\Exir\obj\Debug\Exir.Heading.resources
+E:\Exir\Exir\obj\Debug\Exir.Main_Form.resources
+E:\Exir\Exir\obj\Debug\Exir.Payment_Factor.resources
+E:\Exir\Exir\obj\Debug\Exir.Properties.Resources.resources
+E:\Exir\Exir\obj\Debug\Exir.Search_Heading.resources
+E:\Exir\Exir\obj\Debug\Exir.Setting.resources
+E:\Exir\Exir\obj\Debug\Exir.csproj.GenerateResource.cache
+E:\Exir\Exir\obj\Debug\Exir.exe.licenses
+E:\Exir\Exir\obj\Debug\Exir.csproj.CoreCompileInputs.cache
+E:\Exir\Exir\obj\Debug\Exir.csproj.CopyComplete
+E:\Exir\Exir\obj\Debug\Exir.exe
+E:\Exir\Exir\obj\Debug\Exir.pdb
+E:\Exir\Exir\obj\Debug\Exir.Calculator.resources
+E:\Exir\Exir\bin\Debug\BotDetect.dll
+E:\Exir\Exir\bin\Debug\BotDetect.Web.Mvc.dll
+E:\Exir\Exir\bin\Debug\hbehr.recaptcha.dll
+E:\Exir\Exir\bin\Debug\System.Data.SQLite.dll
+E:\Exir\Exir\bin\Debug\System.Data.SQLite.xml
+E:\Exir\Exir\bin\Debug\Guna.UI2.dll
+E:\Exir\Exir\obj\Debug\Exir.csproj.AssemblyReference.cache
